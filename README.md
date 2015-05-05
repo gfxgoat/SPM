@@ -1,2 +1,2 @@
 # SPM
-Simple Package Management, Based on PHP with c# windows client
+Simple Package Management, Based on PHP Server Backed with c# windows client
